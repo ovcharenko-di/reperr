@@ -1,0 +1,19 @@
+<h1>Отчеты об ошибках</h1>
+<div class="container">
+<table class="table table-sm table-striped table-bordered">
+    <thead>
+        <tr>
+            <th scope="col">id</th>
+            <th scope="col">datetime</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var row in Model) {
+        <tr>
+            <td>@row.id</td>
+            <td>@row.datetime</td>
+        </tr>
+        }
+    </tbody>
+</table>
+</div>

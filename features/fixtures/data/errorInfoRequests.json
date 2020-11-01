@@ -1,0 +1,47 @@
+﻿[
+    {
+        "id": "7054dd5d-f0b8-491d-8dcc-18bc1d2cbc83",
+        "datetime": "2020-10-05T21:58:45Z",
+        "configHash": "bd56b503adfc454b9fc84d7b0fea3e7900000000",
+        "сonfigName": "Config1",
+        "configVersion": "1.0.1.265",
+        "appStackHash": "5E78AD0E93E8D3963841DFD479A597ED",
+        "clientStackHash": "84A1E9821497E377D0E1FB27C47CA523",
+        "serverStackHash": "52FD5252518EE4116169922AB4251CC5",
+        "platformType": "Windows_x86_64",
+        "appName": "1CV8C",
+        "appVersion": "8.3.17.1549",
+        "configurationInterfaceLanguageCode": "ru",
+        "systemcrash": ""
+    },
+    {
+        "id": "b4fe5366-193b-4f4b-8609-6a727b316ca5",
+        "datetime": "2020-10-06T11:20:33Z",
+        "configHash": "ac83b503adfc454b9fc84d7b0fea3e7900000000",
+        "сonfigName": "Config2",
+        "configVersion": "1.0.1.265",
+        "appStackHash": "5E78AD0E93E8D3963841DFD479A597EF",
+        "clientStackHash": "84A1E9821497E377D0E1FB27C47CA522",
+        "serverStackHash": "",
+        "platformType": "Windows_x86_64",
+        "appName": "1CV8C",
+        "appVersion": "8.3.17.1549",
+        "configurationInterfaceLanguageCode": "ru",
+        "systemcrash": ""
+    },
+    {
+        "id": "2ac96a47-156b-40cf-8403-ea4e0287deba",
+        "datetime": "2020-10-06T11:29:17Z",
+        "configHash": "or96e421adfc454b9fc84d7b0fea3e7900000000",
+        "сonfigName": "Config3",
+        "configVersion": "1.0.1.265",
+        "appStackHash": "68C266FAAB5C5941BD77CB1360EE38B2",
+        "clientStackHash": "461810EBDAC09A5EDFC177235B6F4152",
+        "serverStackHash": "",
+        "platformType": "Windows_x86_64",
+        "appName": "1CV8C",
+        "appVersion": "8.3.17.1549",
+        "configurationInterfaceLanguageCode": "ru",
+        "systemcrash": ""
+    }
+]

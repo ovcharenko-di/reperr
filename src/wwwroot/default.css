@@ -1,0 +1,28 @@
+body {
+    display: relative;
+}
+
+table {
+    /* default is 1rem or 16px */
+    font-size: 0.8rem;
+}
+
+.table td, .table th {
+    vertical-align: inherit;
+}
+
+.word-wrap{word-wrap: break-word;}
+
+.github-fork-ribbon {
+    width: 12.1em;
+    height: 12.1em;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    right: 0;
+    z-index: 9999;
+    pointer-events: none;
+    font-size: 13px;
+    text-decoration: none;
+    text-indent: -999999px;
+  }

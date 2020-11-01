@@ -1,0 +1,80 @@
+{
+	"time": "2020-10-31T19:05:43+03:00",
+	"clientInfo": {
+		"platformType": "Windows_x86_64",
+		"appVersion": "8.3.17.1549",
+		"appName": "1CV8C",
+		"systemInfo": {
+			"osVersion": "Microsoft Windows 10 version 10.0  (Build 14393)",
+			"fullRAM": 137438347264,
+			"freeRAM": 125034942464,
+			"processor": "GenuineIntel Intel64 Family 6 Model 85 Stepping 4 2295 MHz",
+			"clientID": "c31ea82a-2691-4a57-9435-2d01f7284fe4"
+		}
+	},
+	"sessionInfo": {
+		"userName": "ОвчаренкоД",
+		"dataSeparation": "",
+		"platformInterfaceLanguageCode": "ru",
+		"configurationInterfaceLanguageCode": "ru",
+		"localeCode": "ru_RU"
+	},
+	"infoBaseInfo": {
+		"localeCode": "ru_RU"
+	},
+	"serverInfo": {
+		"appVersion": "8.3.17.1549",
+		"type": "Windows_x86_64",
+		"dbms": "MSSQLServer"
+	},
+	"configInfo": {
+		"name": "УправлениеПредприятием",
+		"description": "1С:ERP Управление предприятием 2 (1.0.1.529) (http:\/\/v8.1c.ru\/erp\/)\nCopyright © ООО \"1С-Софт\", 2004-2019. Все права защищены\n(http:\/\/www.1c.ru)",
+		"version": "1.0.1.529",
+		"compatibilityMode": "Version8_3_14",
+		"hash": "a14769b5265eab4aba54658c9db0d17a00000000",
+		"changeEnabled": true,
+		"extentions": [
+			[
+				"0001 common methods (0.1.4.41)",
+				"8312032d92b7aa9f40d21bcc1ab3118c13a898ad"
+			],
+			[
+				"0002 logger (0.1.4.15)",
+				"0d0fdecd4e2a40881a2ba47c6242525319c8c573"
+			],
+			[
+				"0003 hs by openapi (0.2.4.17)",
+				"4c70ddef9b4d5908e61dd6dd4930f08ac7a16e87"
+			]
+		]
+	},
+	"errorInfo": {
+		"systemErrorInfo": {
+			"clientStack": "core83.dll:0x00000000000CF6B6 bsl.dll:0x0000000000058A38 bsl.dll:0x0000000000061B60 VCRUNTIME140.dll:0x000000000000C0B0 VCRUNTIME140.dll:0x0000000000001F11 unknown:0x0000000000000000 bsl.dll:0x000000000004A615 bsl.dll:0x00000000000246F0 bsl.dll:0x0000000000024598 bsl.dll:0x000000000000F8EA mngui.dll:0x0000000000459BEC mngui.dll:0x0000000000459C92 mngui.dll:0x0000000000457BF2 mngcore.dll:0x00000000000A95AC mngui.dll:0x0000000000495E36 mngui.dll:0x000000000047C2E0 mngui.dll:0x000000000047BF4E frame.dll:0x000000000053F5B9 frame.dll:0x000000000092413D frame.dll:0x000000000002AE46 frame.dll:0x000000000001A12B frame.dll:0x000000000001AAD0 wbase83.dll:0x00000000000017C6 frame.dll:0x000000000002E6B1 frame.dll:0x0000000000018D84 wbase83.dll:0x0000000000036A00 wbase83.dll:0x0000000000018617 wbase83.dll:0x00000000000181D2 wbase83.dll:0x00000000000179BF wbase83.dll:0x0000000000017674 wbase83.dll:0x0000000000008C94 wbase83.dll:0x0000000000008E3B frame.dll:0x00000000006EB4C1 frame.dll:0x00000000006E8D26 mngcln.dll:0x00000000000B42BF mngcln.dll:0x00000000000B3B6B 1cv8c.exe:0x000000000000D0FD 1cv8c.exe:0x00000000000114DB core83.dll:0x0000000000216FF0 core83.dll:0x0000000000219508 1cv8c.exe:0x00000000000110A7 1cv8c.exe:0x000000000008034E KERNEL32.DLL:0x0000000000000000 unknown:0x0000000000000000 ",
+			"clientStackHash": "84A1E9821497E377D0E1FB27C47CA522"
+		},
+		"applicationErrorInfo": {
+			"errors": [
+				[
+					"{ВнешняяОбработка.Ошибка.Форма.Форма.Форма(4)}: Метод объекта не обнаружен (ВыполнитьРегистрациюИнформационнойБазы)",
+					[
+						"ScriptRuntimeError",
+						"ScriptUseError"
+					]
+				]
+			],
+			"stack": [
+				[
+					"ВнешняяОбработка.Ошибка.Форма.Форма.Форма",
+					4,
+					"\u0009СистемаВзаимодействия.ВыполнитьРегистрациюИнформационнойБазы(Неопределено);"
+				]
+			],
+			"stackHash": "5E78AD0E93E8D3963841DFD479A597EC"
+		}
+	},
+	"screenshot": {
+		"file": "screenshot.png"
+	}
+}

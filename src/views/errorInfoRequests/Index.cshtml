@@ -1,0 +1,39 @@
+<h1>Запросы информации об ошибках</h1>
+<div class="container">
+<table class="table table-sm table-striped table-bordered">
+    <thead>
+        <tr>
+            <th scope="col">id</th>
+            <th scope="col">datetime</th>
+            <th scope="col">configHash</th>
+            <th scope="col">configVersion</th>
+            <th scope="col">appStackHash</th>
+            <th scope="col">clientStackHash</th>
+            <th scope="col">serverStackHash</th>
+            <th scope="col">platformType</th>
+            <th scope="col">appName</th>
+            <th scope="col">appVersion</th>
+            <th scope="col">configurationInterfaceLanguageCode</th>
+            <th scope="col">systemcrash</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var row in Model) {
+        <tr>
+            <td>@row.id</td>
+            <td>@row.datetime</td>
+            <td>@row.configHash</td>
+            <td>@row.configVersion</td>
+            <td>@row.appStackHash</td>
+            <td>@row.clientStackHash</td>
+            <td>@row.serverStackHash</td>
+            <td>@row.platformType</td>
+            <td>@row.appName</td>
+            <td>@row.appVersion</td>
+            <td>@row.configurationInterfaceLanguageCode</td>
+            <td>@row.systemcrash</td>
+        </tr>
+        }
+    </tbody>
+</table>
+</div>
