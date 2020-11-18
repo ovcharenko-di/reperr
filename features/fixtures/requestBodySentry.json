@@ -1,0 +1,34 @@
+{
+    "event_id": "61001a5e09d547b8bf19e7672eda10e5",
+    "timestamp": "2020-10-31T19:05:43+03:00",
+    "logger": "logger.reperr.errors",
+    "platform": "Other",
+    "transaction": "ВнешняяОбработка.Ошибка.Форма.Форма.Форма(4)",
+    "release": "a14769b5265eab4aba54658c9db0d17a00000000",
+    "tags": {
+        "1C-version": "8.3.17.1549",
+        "conf-version": "1.0.1.529"
+    },
+    "exception": {
+        "values": [
+            {
+                "type": "ScriptRuntimeError",
+                "value": "Метод объекта не обнаружен (ВыполнитьРегистрациюИнформационнойБазы)",
+                "module": "ВнешняяОбработка.Ошибка.Форма.Форма.Форма(4)"
+            }
+        ]
+    },
+    "modules": {
+        "0001 common methods (0.1.4.41)": "8312032d92b7aa9f40d21bcc1ab3118c13a898ad",
+        "0002 logger (0.1.4.15)": "0d0fdecd4e2a40881a2ba47c6242525319c8c573",
+        "0003 hs by openapi (0.2.4.17)": "4c70ddef9b4d5908e61dd6dd4930f08ac7a16e87"
+    },
+    "extra": {
+        "compatibilityMode": "Version8_3_14"
+    },
+    "fingerprint": [
+        "a14769b5265eab4aba54658c9db0d17a00000000",
+        "ВнешняяОбработка.Ошибка.Форма.Форма.Форма(4)",
+        "Метод объекта не обнаружен (ВыполнитьРегистрациюИнформационнойБазы)"
+    ]
+}
