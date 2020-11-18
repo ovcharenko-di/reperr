@@ -10,6 +10,8 @@ jobs:
   build:
     if: github.repository == 'ovcharenko-di/reperr'
     runs-on: ${{ matrix.os }}
+    env:
+      ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
     strategy:
       fail-fast: false
       matrix:
