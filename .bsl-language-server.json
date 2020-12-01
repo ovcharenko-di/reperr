@@ -4,7 +4,7 @@
       "parameters": {
         "Typo": {
             "minWordLength": 3,
-            "userWordsToIgnore": "Логгер"
+            "userWordsToIgnore": "Логгер,Трекеры"
         }
       }
     }
