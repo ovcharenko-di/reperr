@@ -1,6 +1,8 @@
 #Использовать "../src/model"
 
+// BSLLS:UnusedParameters-off
 Функция ПолучитьСписокТестов(ЮнитТестирование) Экспорт
+// BSLLS:UnusedParameters-on
 	
 	ВсеТесты = Новый Массив;
 	
