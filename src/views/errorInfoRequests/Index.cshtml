@@ -5,6 +5,7 @@
         <tr>
             <th scope="col">id</th>
             <th scope="col">datetime</th>
+            <th scope="col">fingerprint</th>
             <th scope="col">configHash</th>
             <th scope="col">configVersion</th>
             <th scope="col">appStackHash</th>
@@ -20,8 +21,9 @@
     <tbody>
         @foreach(var row in Model) {
         <tr>
-            <td>@row.id</td>
-            <td>@row.datetime</td>
+            <td>@row.x_id</td>
+            <td>@row.x_datetime</td>
+            <td>@row.x_fingerprint</td>
             <td>@row.configHash</td>
             <td>@row.configVersion</td>
             <td>@row.appStackHash</td>

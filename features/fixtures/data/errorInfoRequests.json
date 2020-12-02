@@ -1,7 +1,8 @@
 ﻿[
     {
-        "id": "7054dd5d-f0b8-491d-8dcc-18bc1d2cbc83",
-        "datetime": "2020-10-05T21:58:45Z",
+        "x_id": "7054dd5d-f0b8-491d-8dcc-18bc1d2cbc83",
+        "x_datetime": "2020-10-05T21:58:45Z",
+        "x_fingerprint": "1111-2222-33333333-4444",
         "configHash": "bd56b503adfc454b9fc84d7b0fea3e7900000000",
         "сonfigName": "Config1",
         "configVersion": "1.0.1.265",
@@ -15,8 +16,9 @@
         "systemcrash": ""
     },
     {
-        "id": "b4fe5366-193b-4f4b-8609-6a727b316ca5",
-        "datetime": "2020-10-06T11:20:33Z",
+        "x_id": "b4fe5366-193b-4f4b-8609-6a727b316ca5",
+        "x_datetime": "2020-10-06T11:20:33Z",
+        "x_fingerprint": "1111-2222-33333333-5555",
         "configHash": "ac83b503adfc454b9fc84d7b0fea3e7900000000",
         "сonfigName": "Config2",
         "configVersion": "1.0.1.265",
@@ -30,8 +32,9 @@
         "systemcrash": ""
     },
     {
-        "id": "2ac96a47-156b-40cf-8403-ea4e0287deba",
-        "datetime": "2020-10-06T11:29:17Z",
+        "x_id": "2ac96a47-156b-40cf-8403-ea4e0287deba",
+        "x_datetime": "2020-10-06T11:29:17Z",
+        "x_fingerprint": "1111-2222-33333333-6666",
         "configHash": "or96e421adfc454b9fc84d7b0fea3e7900000000",
         "сonfigName": "Config3",
         "configVersion": "1.0.1.265",
