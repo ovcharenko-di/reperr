@@ -1,0 +1,8 @@
+reperr:
+  build: .
+  ports:
+    - 5000:5000
+  volumes:
+    - ./data:/app/data
+  environment:
+    ASPNETCORE_ENVIRONMENT: Production
