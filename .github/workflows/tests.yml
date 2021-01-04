@@ -2,7 +2,7 @@
 # Copyright (C) 2020 Tymko Oleg <olegtymko@yandex.ru> and contributors
 # All rights reserved.
 
-name: Тестирование
+name: tests
 # Любой пуш и pr в проекте
 on: [push, pull_request]
 
