@@ -4,5 +4,6 @@ reperr:
     - 5000:5000
   volumes:
     - ./data:/app/data
+    - ./log:/var/log
   environment:
     ASPNETCORE_ENVIRONMENT: Production
