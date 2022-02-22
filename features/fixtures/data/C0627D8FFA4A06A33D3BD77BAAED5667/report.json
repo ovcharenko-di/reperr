@@ -1,0 +1,64 @@
+{
+	"time": "2022-02-18T14:03:22+03:00",
+	"clientInfo": {
+		"platformType": "Windows_x86_64",
+		"appVersion": "8.3.18.1520",
+		"appName": "1CV8C",
+		"systemInfo": {
+			"osVersion": "Microsoft Windows 10 version 10.0  (Build 18363)",
+			"fullRAM": 8436940800,
+			"freeRAM": 1116553216,
+			"processor": "GenuineIntel Intel64 Family 6 Model 142 Stepping 10 1992 MHz",
+			"clientID": "fbc6d6a7-2fc2-4090-85a0-d07c8164be1a"
+		}
+	},
+	"sessionInfo": {
+		"userName": "",
+		"dataSeparation": "",
+		"platformInterfaceLanguageCode": "ru",
+		"configurationInterfaceLanguageCode": "ru",
+		"localeCode": "ru_RU"
+	},
+	"infoBaseInfo": {
+		"localeCode": "ru_RU"
+	},
+	"serverInfo": {
+		"appVersion": "8.3.18.1520",
+		"type": "Windows_x86_64",
+		"dbms": "DBEng8"
+	},
+	"configInfo": {
+		"name": "Конфигурация",
+		"description": "Конфигурация",
+		"version": "",
+		"compatibilityMode": "Version8_3_18",
+		"hash": "c49e4e6a81e7b0498773e04832af85c700000000",
+		"changeEnabled": true
+	},
+	"errorInfo": {
+		"systemErrorInfo": {
+			"clientStack": "core83.dll:0x00000000000D6D06 vrscore.dll:0x00000000000B367E mngui.dll:0x00000000000BDF2C mngui.dll:0x00000000003B38DD mngui.dll:0x00000000003BB4A9 mngui.dll:0x00000000003B0AAC mngcln.dll:0x00000000000EFCED frame.dll:0x0000000000898475 frame.dll:0x0000000000898B64 frame.dll:0x0000000000879524 frame.dll:0x000000000087B28A frame.dll:0x000000000095E74A frame.dll:0x000000000089E099 frame.dll:0x0000000000042F8B frame.dll:0x0000000000318839 frame.dll:0x000000000031A08B frame.dll:0x00000000003190BD frame.dll:0x000000000031D719 frame.dll:0x0000000000323C56 frame.dll:0x000000000031796B frame.dll:0x000000000031823B wbase83.dll:0x00000000000371C0 wbase83.dll:0x0000000000018637 wbase83.dll:0x00000000000181F2 wbase83.dll:0x00000000000179DF wbase83.dll:0x0000000000017694 wbase83.dll:0x0000000000008C94 wbase83.dll:0x0000000000008E3B frame.dll:0x0000000000710331 frame.dll:0x000000000070DB96 mngcln.dll:0x00000000000B70AF mngcln.dll:0x00000000000B695B 1cv8c.exe:0x000000000000D239 1cv8c.exe:0x000000000001164B core83.dll:0x000000000021E480 core83.dll:0x0000000000220918 1cv8c.exe:0x000000000001121C 1cv8c.exe:0x00000000000BE31E KERNEL32.DLL:0x0000000000000000 ntdll.dll:0x0000000000000000 ",
+			"clientStackHash": "D97CA0D063AA8E9ED6637A0AF0F0A8A2",
+			"serverStack": "core83.dll:0x00000000000D6296 bsl.dll:0x000000000001706E bsl.dll:0x00000000000204E0 backend.dll:0x0000000000409CF9 mngbase.dll:0x000000000064C8B7 mngbase.dll:0x000000000064CCB0 mngbase.dll:0x00000000006444ED mngbase.dll:0x00000000005283AB mngbase.dll:0x000000000052659C vrsbase.dll:0x00000000000B3D5D vrsbase.dll:0x00000000000B25F6 vrsbase.dll:0x00000000000C653E vrsbase.dll:0x000000000006A2C5 vrsbase.dll:0x000000000003839E vrsbase.dll:0x0000000000071513 vrsbase.dll:0x0000000000067CB9 vrsbase.dll:0x000000000007177E vrsbase.dll:0x0000000000072207 vrscore.dll:0x000000000007CAA7 vrscore.dll:0x000000000008758C vrscore.dll:0x00000000000A2435 vrscore.dll:0x000000000007214D vrscore.dll:0x00000000000A962D frame.dll:0x000000000003E07D vrscore.dll:0x00000000000A8B20 vrscore.dll:0x00000000000A9B34 vrscore.dll:0x00000000000ABF1F vrscore.dll:0x00000000000C58B1 mngui.dll:0x00000000003B386C mngui.dll:0x00000000003BB4A9 mngui.dll:0x00000000003B0AAC mngcln.dll:0x00000000000EFCED frame.dll:0x0000000000898475 frame.dll:0x0000000000898B64 frame.dll:0x0000000000879524 frame.dll:0x000000000087B28A frame.dll:0x000000000095E74A frame.dll:0x000000000089E099 frame.dll:0x0000000000042F8B frame.dll:0x0000000000318839 frame.dll:0x000000000031A08B frame.dll:0x00000000003190BD frame.dll:0x000000000031D719 frame.dll:0x0000000000323C56 frame.dll:0x000000000031796B frame.dll:0x000000000031823B wbase83.dll:0x00000000000371C0 wbase83.dll:0x0000000000018637 wbase83.dll:0x00000000000181F2 wbase83.dll:0x00000000000179DF wbase83.dll:0x0000000000017694 wbase83.dll:0x0000000000008C94 wbase83.dll:0x0000000000008E3B frame.dll:0x0000000000710331 frame.dll:0x000000000070DB96 mngcln.dll:0x00000000000B70AF mngcln.dll:0x00000000000B695B 1cv8c.exe:0x000000000000D239 1cv8c.exe:0x000000000001164B core83.dll:0x000000000021E480 core83.dll:0x0000000000220918 1cv8c.exe:0x000000000001121C 1cv8c.exe:0x00000000000BE31E KERNEL32.DLL:0x0000000000000000 ntdll.dll:0x0000000000000000 ",
+			"serverStackHash": "514CD1397EC2D7D33D127A5F243C337E"
+		},
+		"applicationErrorInfo": {
+			"errors": [
+				[
+					"Ошибка инициализации модуля: ВнешняяОбработка.Ошибка.Форма.Форма.Форма",
+					[]
+				],
+				[
+					"{ВнешняяОбработка.Ошибка.Форма.Форма.Форма(10,2)}: Переменная не определена (НаборыВызовСервера)",
+					[
+						"ScriptCompileError"
+					]
+				]
+			],
+			"stackHash": "84A1E9821497E377D0E1FB27C47CA522"
+		}
+	},
+	"screenshot": {
+		"file": "screenshot.png"
+	}
+}
